@@ -1,0 +1,11 @@
+mask,face,detected,time
+TRUE,anger,anger,7.30
+TRUE,disgust,happyness,4.20
+TRUE,fear,fear,6.13
+TRUE,happyness,happyness,6.46
+TRUE,sadness,sadness,2.73
+FALSE,anger,anger,2.30
+FALSE,anger,disgust,3.86
+FALSE,anger,fear,5.49
+FALSE,anger,happyness,2.36
+FALSE,anger,sadness,2.00
